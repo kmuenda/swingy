@@ -1,0 +1,1 @@
+4,Warrior,1,1,Brigandine,Long bow,Great helm,20,50,50
